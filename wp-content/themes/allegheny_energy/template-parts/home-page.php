@@ -202,47 +202,9 @@ Template Name: Home Page
 			</div>
 			
 		</div>
-		<div class="row thin-margin-bottom medium-margin-top text-center">
-			<a href="#mc_embed_signup" class="round-link">Subscribe to the EnergyWatch newsletter</a>
-			
-		</div>
+		
 	</div>
-	<!--<div class="large-margin-top medium-margin-bottom container" id="partners">
-		<div class="row">
-			<h3 class="text-center margin-bottom">Partners</h3>
-			<h4 class="text-center margin-bottom">Energy Alliance Executive Leadership Group</h4>
-			
-		</div>
-		<div class="row">
-			<div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 col-xs-12 col-xs-offset-0">
-			<ul style="list-style: none; margin: 0 0 1.5em 0; padding:0 .25em;">
-				<li><strong>Allegheny Technologies Incorporated</strong>, Richard Harshman, Chairman, President and Chief Executive Officer</li>
-				<li><strong>Aquatech International Corporation</strong>, Venkee Sharma, President and Chief Executive Officer</li>
-				<li><strong>Carnegie Mellon University</strong>, Jared Cohon, President Emeritus and University Professor of Civil and EnvironmentalEngineering and Engineering and Public Policy</li>
-				<li><strong>Chester Engineers, Inc.</strong>, Robert Agbede, President and Chief Executive Officer</li>
-				<li><strong>Claude Worthington Benedum Foundation</strong>, William Getty, President</li>
-				<li><strong>Columbia Gas of Pennsylvania</strong>, Inc., Mark Kempic, President</li>
-				<li><strong>CONSOL Energy</strong>, Nick DeIuliis, President and CEO</li>
-				<li><strong>Covestro LLC</strong>, Gerald MacCleary, President</li>
-				<li><strong>Duquesne Light Company</strong>, Richard Riazzi, President and Chief Executive Officer</li>
-				<li><strong>Eaton Corporation</strong>, Jim McGill, President, Electrical Sector, Americas</li>
-				<li><strong>EQT Corporation</strong>, David Porges, Chairman, President and Chief Executive Officer</li>
-				<li><strong>FirstEnergy Corporation</strong>, James Lash, President – Generation</li>
-				<li><strong>US DOE National Energy Technology Laboratory (NETL)</strong>, Grace Bochenek, Director</li>
-				<li><strong>Peoples Natural Gas</strong>, Morgan O’Brien, President and Chief Executive Officer</li>
-				<li><strong>The Weavertown Environmental Group</strong>, Dawn Fuchs, President and Chief Executive Officer</li>
-				<li><strong>Westinghouse Electric Company</strong>, Daniel Roderick, President and Chief Executive Officer</li>
-				<li><strong>Allegheny Conference on Community Development</strong>, Dennis Yablonsky, Chief Executive Officer</li>
-				<li><strong>Allegheny Conference on Community Development</strong>, Ken Zapinski, Senior Vice President, Energy & Infrastructure</li>
-				<li><strong>Innovation Works</strong>, Richard Lunak, President and Chief Executive Officer</li>
-				<li><strong>Innovation Works</strong>, Bob Starzynski, Director of Business Development</li>
-			</ul>
-			</div>
-		</div>
-		<div class="row medium-margin-top text-center">
-			<a href="/wp-content/uploads/2017/10/EAGP_List.pdf" target="_blank" class="round-link">View the EAGP Members</a>
-		</div>
-	</div>-->
+	
 	<div class="container-fluid">
 		<div class="row">
 			<img src="<?php echo get_template_directory_uri(); ?>/images/FooterEnergyHouse.jpg" alt="Images of an Energy efficient house" />
